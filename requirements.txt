@@ -1,2 +1,2 @@
 sh
-pyparted
+pyparted==3.11.3
